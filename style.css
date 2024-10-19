@@ -1,0 +1,481 @@
+*{
+    
+    font-family: "Noto Sans", sans-serif;
+}
+nav ul{
+    display: flex;
+    
+    
+}
+nav ul li a{
+    text-decoration: none;;
+    margin: 15px;
+    color: white;
+    font-size: 20px;
+    
+}
+ul {
+    margin-left: 50px;
+}
+nav{
+    height: 100px;
+    background-image: url('https://www.lostwithpurpose.com/wp-content/uploads/2018/05/fb-share-solo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lost{
+ height: 70px;
+ 
+    
+}
+.banner{
+    background-image: url('https://www.lostwithpurpose.com/wp-content/uploads/2018/05/fb-share-solo.jpg');
+    height: 725px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+nav ul li a:hover{
+    color:aqua;
+}
+.write{
+    position: absolute;
+    bottom: 420px;
+    margin-left: 30%;
+    color: white;
+    margin-top:400px;
+}
+.want{
+    text-decoration: none;
+}
+.alex{
+    display: flex;
+    
+
+}
+.alex{
+    margin-left: 28%;
+    
+    height: 450px;
+}
+.ram{
+    padding: 50px;
+}
+.hi{
+  
+    font-weight: 300;
+    color: black;
+    margin: 20px;
+    
+}
+.yo{
+    margin-left: 20px;
+    font-size: 35px;
+}
+.want{
+    margin-left: 20px;
+}
+.top{
+    text-align: center;
+
+    height: 50px;
+    
+}
+.ten{
+    
+    font-weight: lighter;
+    
+}
+
+
+.af{
+    background-image: url('https://static.wixstatic.com/media/7335d9_3d33991a0209498e88aa17a5199c5854~mv2.jpeg/v1/fill/w_555,h_680,al_c,q_85,enc_auto/7335d9_3d33991a0209498e88aa17a5199c5854~mv2.jpeg');
+
+    height: 410px;
+    width: 390px;
+    margin: 10px;
+}
+.true a{
+    color:whitesmoke;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    position: absolute;
+    top: 34px;
+    margin-top: 95%;
+    margin-left: 70px;
+    
+
+    
+}
+.fa{
+    background-image: url('https://stujarvis.com/wp-content/uploads/2017/11/Badshahi-Mosque-3-3519645021-1509892099552.jpg');
+    
+    height: 410px;
+    width: 390px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+.ya{
+    background-image: url('https://mymodernmet.com/wp/wp-content/uploads/2014/03/nasir-al-mulk-pink-mosque-10.jpg');
+    height: 410px;
+    width: 390px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+.zz{
+    background-image: url('https://c7.alamy.com/comp/2APN5NJ/historic-and-traditional-mud-mosque-and-minaret-in-ushaiger-heritage-village-saudi-arabia-2APN5NJ.jpg');
+    height: 410px;
+    width: 390px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+
+}
+.photos{
+    display: flex;
+    justify-content: space-around;
+
+    height: 470px;
+}
+.false a{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    text-decoration: none;
+    position: absolute;
+    top: 49px;
+    margin-top: 95%;
+    margin-left: 100px;
+}
+.harm a
+    {
+        color: white;
+        font-size: 40px;
+        font-weight: bold;
+        text-decoration: none;
+        position: absolute;
+        top: 40px;
+        margin-top: 95%;
+        margin-left: 150px;
+        
+
+}
+.seen{
+    text-align: center;
+    
+    height: 60px;
+}
+.bbc {
+   margin-left: 380px;
+   
+   
+
+}
+.zara{
+    width: 800px;
+    height:290px ;
+    
+}
+.nine{
+    font-weight: lighter;
+    text-align: center;
+    padding: 95px;
+}
+.tom{
+    background-color: whitesmoke;
+    height: 150px;
+    
+}
+.torq{
+    background-image: url('https://www.lostwithpurpose.com/wp-content/uploads/2019/10/DSC08231-2.jpg.webp');
+    height: 430px;
+    width: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.fa-solid{
+    font-weight: 200;
+    margin-left: 10px;
+    color: gainsboro;
+}
+.pak{
+    margin: 15px;
+}
+.rand{
+    background-image: url('https://www.lostwithpurpose.com/wp-content/uploads/2022/05/DSC01556-1.jpg.webp');
+    height: 430px;
+    width: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.ppp{
+    background-image: url('https://www.lostwithpurpose.com/wp-content/uploads/2023/09/DSC05430.jpg.webp');
+    height: 430px;
+    width: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.we{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+    height: 520px;
+}
+.pak{
+    margin-top: 253px;
+    color: white;
+    font-weight: bold;
+}
+.asus{
+    text-align: center;
+    background-color: whitesmoke;
+    height: 69px;
+
+}
+.ccc{
+    font-weight: lighter;
+    padding: 20px;
+}
+.arnold{
+    height: 400px;
+}
+.yoga{
+    height: 350px;
+    width: 350px;
+    margin: 10px;
+    
+}
+.btn{
+    height: 60px;
+    width: 150px;
+    margin-left: 20px;
+    margin: 25px;
+    
+}
+.perl{
+    background-color: white;
+    width: 650px;
+    height: 350px;
+    margin: 10px;
+    
+    
+}
+.lia{
+    margin-left: 20px;
+    margin-top: 50px;
+    font-weight: bold;
+     
+}
+.iu{
+    display: flex;
+    justify-content: center;
+    background-color:whitesmoke;
+    height: 380px;
+    
+}
+.ui{
+    display: flex;
+    justify-content: center;
+    height: 375px;
+    background-color: whitesmoke;
+}
+.raj{
+    display: flex;
+    justify-content: center;
+    height: 383px;
+    background-color: whitesmoke;
+}
+.rono{
+    display: flex;
+    justify-content: center;
+    height: 375px;
+    background-color:whitesmoke;
+}
+.dance{
+    display: flex;
+    justify-content: center;
+    height: 430px;
+    background-color: whitesmoke;
+}
+.india{
+    font-weight: lighter;
+    text-align: center;
+    padding: 30px;
+}
+.google{
+    color: aqua;
+    height: 300px;
+
+}
+#google_esf{
+    color: brown;
+    height: 300px;
+}
+.maps{
+    width: 1650px;
+    height: 650px;
+}
+.bee{
+    background-color: whitesmoke;
+    height: 770px;
+}
+.latest{
+    background-color: whitesmoke;
+    height: 110px;
+}
+.akka{
+    font-weight: lighter;
+    text-align: center;
+    padding: 50px;
+    
+}
+.nature{
+    background-image: url('https://www.lostwithpurpose.com/wp-content/uploads/2024/03/DSC08980.jpg.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 430px;
+    width: 500px;
+
+}
+.bro{
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+    margin-left: 10px;
+    margin-top: 275px;
+    
+    
+}
+.mar{
+    color: gray;
+    
+    font-size: 17px;
+    margin-left: 10px;
+    
+}
+.wwe{
+    
+    color: gray;
+    font-size:17px ;
+
+}
+large{
+    font-weight: lighter;
+    font-size: 17px;
+    
+}
+.att{
+    display: flex;
+    justify-content: space-around;
+    background-color:whitesmoke;
+    height: 450px;
+    
+}
+.train{
+    background-image: url('https://www.lostwithpurpose.com/wp-content/uploads/2023/12/DJI_0824.jpg.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 430px;
+    width: 500px;
+
+
+}
+.flight{
+    background-image: url('https://www.lostwithpurpose.com/wp-content/uploads/2023/12/DSC05916.jpg.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 430px;
+    width: 500px;
+
+
+}
+.go{
+    margin-left: 45%;
+}
+
+.cum{
+    background-color: whitesmoke;
+    height: 135px;
+}
+.pop{
+    font-size: 20px;
+    color: white;
+}
+.foot{
+    display: flex;
+    justify-content: start;
+    background-color: #333;
+    height: 250px;
+}
+.messi{
+    margin: 50px;
+        
+        
+}
+p{
+    color: white;
+    font-weight: lighter;
+    
+}
+.boy{
+
+    padding: 25px;
+    font-weight: lighter;
+    font-size: 15px;
+color: gray;
+}
+.jarvis{
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    height: 160px;
+   
+}
+.war {
+    color: gray;
+    font-weight: bold;
+    font-size: 12px;
+}
+.war a{
+    color:whitesmoke;
+    text-decoration: none;
+    margin: 6px;
+}
+.tony{
+    height: 300px;
+}
+.stark{
+    background-color: #333;
+    height: 130px;
+
+    
+}
+.win{
+    width: 220px;
+    color: gray;
+    
+
+
+}
+.ayyo {
+    color: gray;
+}
+.faya{
+    margin-left: 40%;
+}
+.mam{
+    font-weight: lighter;
+    font-size: 17px;
+    color:  gainsboro;
+}
+.af:hover{
+    scale: 1.10;
+    transition:0.1s;
+}
